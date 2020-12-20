@@ -9,3 +9,7 @@ scipy
 sklearn 
 setuptools
 pkg_resources
+
+Harol Alvarado
+plyer
+pyautogui
